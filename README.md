@@ -34,7 +34,7 @@ I am M Nikhil, a Computer Science and Engineering student at RGUKT Ongole. I am 
 Email: madanunikhil444@gmail.com
 
 ## Live Website
-(Add GitHub Pages URL here after deployment)
+https://nikhil-madanu.github.io/elevate-labsinternship_task6/
 
 ## Repository Link
 https://github.com/nikhil-madanu/elevate-labsinternship_task6
